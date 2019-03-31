@@ -1,0 +1,10 @@
+{
+  "name": "reload",
+  "version": "1.0.0",
+  "description": "Browser Extension: Reload button for Desktop PWA",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "daiiz",
+  "license": "MIT"
+}
