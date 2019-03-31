@@ -2,5 +2,5 @@
 
 Command + R でもいいですね
 
-## Icon
-https://material.io/tools/icons/?icon=refresh&style=baseline
+## Install
+[![Image from Gyazo](https://i.gyazo.com/e61bfc60bcd139e23553d0d0677b500a.gif)](https://gyazo.com/e61bfc60bcd139e23553d0d0677b500a)
